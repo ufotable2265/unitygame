@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/killmonster.unity
+- path: Assets/Scenes/all has one.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

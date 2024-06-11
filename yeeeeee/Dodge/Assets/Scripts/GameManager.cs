@@ -33,9 +33,17 @@ public class GameManager : MonoBehaviour {
             if (Input.GetKeyDown(KeyCode.R))
             {
                 // SampleScene 씬을 로드
-                SceneManager.LoadScene("SampleScene");
+                SceneManager.LoadScene("dobge");
             }
         }
+
+
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+            {
+                // SampleScene 씬을 로드
+                SceneManager.LoadScene("all has one");
+            }
     }
 
     // 현재 게임을 게임 오버 상태로 변경하는 메서드
