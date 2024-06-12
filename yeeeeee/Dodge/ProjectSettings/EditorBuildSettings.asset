@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/all has one.unity
     guid: 95e9baeabdf6cca438dbf32cdda9844b
+  - enabled: 1
+    path: Assets/Scenes/killmonster.unity
+    guid: a5bca0010691c514e9bcbf29c4590cf4
   m_configObjects: {}
